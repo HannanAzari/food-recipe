@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/recipe/static/css/main.f579c696.css",
+    "main.js": "/recipe/static/js/main.6c90ac38.js",
+    "static/media/vegetables-set-left-black-slate.jpg": "/recipe/static/media/vegetables-set-left-black-slate.f28aca96eef193d9160d.jpg",
+    "index.html": "/recipe/index.html",
+    "main.f579c696.css.map": "/recipe/static/css/main.f579c696.css.map",
+    "main.6c90ac38.js.map": "/recipe/static/js/main.6c90ac38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f579c696.css",
+    "static/js/main.6c90ac38.js"
+  ]
+}
